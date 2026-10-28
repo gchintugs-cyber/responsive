@@ -1,0 +1,413 @@
+#page {
+  width: 1440px;
+  background-color: black;
+  margin: 0 auto;
+}
+* {
+  font-family: "Manrope", sans-serif;
+}
+#hero-section1 {
+  background-image: url(backimg.png);
+  height: 754px;
+  width: 1440px;
+  background-position: center;
+  background-size: cover;
+}
+#nav {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  gap: 40px;
+  padding-top: 35px;
+  justify-content: center;
+}
+#cozum {
+  height: 20px;
+  width: 603px;
+  display: flex;
+  gap: 40px;
+  padding-left: 584px;
+}
+.A {
+  font-size: 14px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 700;
+}
+#tovch {
+  height: 40px;
+  width: 91px;
+  background-color: #f84646;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tovcha {
+  font-size: 14px;
+  color: white;
+  font-family: "Manrope", sans-serif;
+  font-weight: 700;
+}
+#Header {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+#head {
+  width: 665px;
+  height: 406px;
+  padding-left: 122px;
+  padding-top: 0%;
+}
+.Tom {
+  padding-top: 0%;
+  font-size: 64px;
+  font-weight: 800;
+  letter-spacing: 0%;
+  line-height: 84px;
+}
+.bicig {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  line-height: 34px;
+}
+#Input {
+  background-color: white;
+  width: 502px;
+  height: 73px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+}
+.input {
+  width: 178px;
+  height: 36px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 32px;
+}
+#tovch2 {
+  width: 136px;
+  height: 61px;
+  border-radius: 8px;
+  background-color: #f84646;
+  margin-left: 145px;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+#hero-section2 {
+  background-color: white;
+  width: 1440px;
+  height: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#durvuljin {
+  width: 1153px;
+  height: 794px;
+  background-color: white;
+}
+
+#Kalite {
+  width: 100%;
+  height: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#head2 {
+  font-size: 36px;
+  font-weight: 800px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+#bicig2 {
+  width: 994px;
+  height: 109px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 39.5px;
+  letter-spacing: 0.2px;
+}
+#zuuvan {
+  width: 100%;
+  height: 564px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+#deed {
+  width: 100%;
+  height: 282px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+#dood {
+  width: 100%;
+  height: 282px;
+
+  display: flex;
+  justify-content: space-around;
+}
+.icons {
+  height: 282px;
+  width: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+#hhoyr {
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+#bicig {
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+}
+.icons img {
+  height: 76px;
+  width: 76px;
+}
+#mid {
+  width: 1440px;
+  height: 376px;
+  background-color: #f84646;
+}
+#Shadowfiend {
+  width: 1440px;
+  height: 188px;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+}
+#Morphling {
+  width: 1440px;
+  height: 188px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+#raze {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 64px;
+}
+#requim {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+}
+.duruv {
+  width: 200px;
+  height: 120px;
+}
+.durvin {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+#hero-section3 {
+  width: 1440px;
+  height: 1320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+#terror {
+  width: 1197px;
+  height: 1080px;
+  background-color: white;
+}
+.Reflection {
+  width: 1197px;
+  height: 540px;
+  display: flex;
+  justify-content: space-between;
+}
+.illu {
+  height: 100%;
+  width: 523px;
+}
+.Reflection img {
+  height: 480px;
+  width: 504px;
+}
+.Head3 {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 76px;
+}
+.uuurt {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+}
+.tovch3 {
+  width: 160px;
+  height: 48px;
+  background-color: #f84646;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+#mid2 {
+  width: 1440px;
+  height: 603px;
+  background-color: #f4f5f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#deedeh {
+  width: 1110px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.head4 {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 64px;
+}
+.urtbish {
+  font-size: 18px;
+  font-weight: 500;
+}
+#doodoh {
+  display: flex;
+  height: 403px;
+  width: 946px;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  align-items: center;
+}
+.iconuud {
+  height: 96px;
+  width: 170px;
+  border-radius: 16px;
+  background-color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.iconuud img {
+  height: 67px;
+  width: 134px;
+  border-radius: 16px;
+}
+#amazon {
+  color: #e29d3f;
+}
+#book {
+  color: #f84646;
+}
+#tumunu {
+  color: palevioletred;
+  font-weight: 100;
+}
+#ola {
+  font-weight: 900;
+  color: black;
+}
+#mid3 {
+  width: 1440px;
+  height: 600px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#mid3 img {
+  height: 150px;
+  width: 150px;
+}
+.Head5 {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 32px;
+}
+.urt5 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+}
+#tovch5 {
+  height: 70px;
+  width: 204px;
+  border-radius: 8px;
+  background-color: #f84646;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 600;
+  color: white;
+  border: none;
+}
+#end {
+  width: 1440px;
+  height: 536px;
+  background-color: #f84646;
+}
+#deedeh2 {
+  width: 1034px;
+  height: 304px;
+  display: flex;
+  gap: 100px;
+  align-items: center;
+  padding-left: 100px;
+}
+#doodoh2 {
+  display: flex;
+  align-items: center;
+  gap: 600px;
+  padding-left: 80px;
+  padding-top: 150px;
+}
+.dooshoo {
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+}
+.doosh {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+.dooshyn {
+  gap: 300px;
+}
+.endd {
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+}
+#logonuud img {
+  height: 32px;
+  width: 32px;
+}
+#logonuud {
+  display: flex;
+  gap: 20px;
+}
